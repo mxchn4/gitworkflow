@@ -2,3 +2,4 @@ CPU
 RAM
 Disk
 Fan
+Coolant
