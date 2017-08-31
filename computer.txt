@@ -1,3 +1,4 @@
 CPU
 RAM
 Disk
+Fan
