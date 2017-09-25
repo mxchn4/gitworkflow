@@ -3,3 +3,4 @@ RAM
 Disk
 Fan
 Coolant
+Neo
